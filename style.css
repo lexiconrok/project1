@@ -1,4 +1,124 @@
-table,td { border: solid 1px rgb(179, 177, 180); } 
-.is{text-align: center;
-   padding: 3px; }
-.q{width: 20px;}
+
+
+ ul li {
+    margin: 10px;
+ }
+#q1 {
+  
+   border: solid 1px rgb(3, 5, 3);
+   height: 40px;
+   width: 70px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+#q2 {
+   background: rgb(255, 135, 23);
+  
+   height: 40px;
+   width: 60px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+#q3 {
+  color: red;
+   border: dashed 3px ;
+font-weight: bold;
+   height: 15px;
+   width: 55px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+#q4 {
+  color: blue;
+   border: dotted 7px green;
+   height: 30px;
+   width: 130px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-weight: bold;
+}
+
+#q5 {
+   border-right: black solid 6px;
+   border-left: rgb(53, 145, 199) solid 6px;
+   border-top: rgb(7, 80, 23) solid 6px;
+   border-bottom: rgb(238, 117, 117) solid 6px;
+   height: 18px;
+   width: 65px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+text-decoration:underline rgb(201, 201, 26);
+color: rgb(199, 199, 33);
+}
+
+#q6 {
+   background: black;
+   color: white;
+   font-style: italic;
+   height: 30px;
+   width: 110px;
+   display: flex;
+   align-items: center;
+   justify-content: right;
+   padding-right: 15px;
+}
+
+#q7 {
+   background: wheat;
+   border: solid rgb(185, 160, 117);
+   color: rgb(185, 160, 117) ;
+   height: 40px;
+   width: 110px;
+   display: flex;
+   align-items: center;
+   
+   padding-left: 15px ;
+}
+
+#q8 {
+   background: rgb(96, 96, 190);
+   border: dashed white 2px;
+   height: 30px;
+   width: 135px;
+   color: white;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 25px;
+}
+
+#q9 {
+   background: rgb(116, 13, 13);
+   border: dotted pink 15px;
+   height: px;
+   width: 70px;
+   color:white;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+
+#q10 {
+   background: rgb(165, 165, 6);
+   border:dashed white 15px;
+   height: 25px;
+   width: 75px;
+   color:white ;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+#q11{
+
+
+
+}
